@@ -1,0 +1,15 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+h3 {
+    font-size: larger;
+}
+
+li {
+    text-shadow: 4px 7px crimson;
+}
